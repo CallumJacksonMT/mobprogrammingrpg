@@ -76,15 +76,19 @@ All roles except Driver and Navigator travel with the player. Driver and Navigat
 
 # When a player finishes a rolesheet
 
-Ask them to cut out the icon badge on the dotted line, put tape on the back and stick it up in the mob badge parking lot. This zone is the group Mob Squad and will fill up with the various badges as they finish rolesheets.
+~~Ask them to cut out the icon badge on the dotted line, put tape on the back and stick it up in the mob badge parking lot. This zone is the group Mob Squad and will fill up with the various badges as they finish rolesheets.~~
 
-They can keep the rolesheet they have cut up - the moves can still net them XP, per the instructions on the rolesheet.
+~~They can keep the rolesheet they have cut up - the moves can still net them XP, per the instructions on the rolesheet.~~
 
-# After 1 hour of rotations (or less depending on time available)
+Probably don't do this unless everyone in your mob has a printer ready, you can follow the pointing as formally or relaxed as you choose within your mob :)
+
+# After 45-50 minutes
 
 Stop the game. Count badges and total. This is the mob’s score for the game.
 
-Have a more expansive discussion, 10-15 minutes. What was a high point for you? What was a low point you experienced? For any rolesheets you completed, what did you like? How would you play it differently next time? 
+Return to the main learning session call and we can discuss - What was a high point for you? What was a low point you experienced? For any rolesheets you completed, what did you like? How would you play it differently next time? 
+
+
 
 # FIN
 
